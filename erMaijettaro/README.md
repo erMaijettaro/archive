@@ -57,5 +57,4 @@ Il progetto parte da una base di [*pattern 1*](https://www.openprocessing.org/sk
 
 ![Imgur](https://imgur.com/uxzbzXo.png)
 
-![Imgur](https://imgur.com/uzx7kW2.png)
 
