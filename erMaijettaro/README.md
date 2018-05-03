@@ -32,9 +32,6 @@ Il progetto parte da una base di [*pattern 1*](https://www.openprocessing.org/sk
 
 # IL QUADRO DELLA SITUAZIONE - Making Visible
 
-**by @erMaijettaro © 2017 MIT License**
-**DSII2018 Lab @UNIRSM** [**+**](http://dsii-2018-unirsm.github.io)
-
 Il Quadro della Situazione è un modulo comunicativo facilmente riprogrammabile, che rappresenta, tramite illuminazione e vibrazione, un dato trovato sul web. L'associazione di più moduli crea una composizione che racconta le scelte e gli interessi degli utenti web. L'utente dentro di sè ricalibra la propria percezione dell'informazione pubblica.
 
 ![Imgur](https://i.imgur.com/01ivCpX.jpg)
