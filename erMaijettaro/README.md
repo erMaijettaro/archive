@@ -7,7 +7,7 @@
 
 Il Quadro della Situazione è un modulo comunicativo facilmente riprogrammabile, che rappresenta, tramite illuminazione e vibrazione, un dato trovato sul web. L'associazione di più moduli crea una composizione che racconta le scelte e gli interessi degli utenti web. L'utente dentro di sè ricalibra la propria percezione dell'informazione pubblica.
 
-![Imgur](https://i.imgur.com/01ivCpX.jpg)
+![Imgur](https://i.imgur.com/01ivCpX.jpg)  
 
 
 
@@ -23,7 +23,7 @@ Il Dizionario del no sense è un generatore di neologismi con relative spiegazio
 
 ![Imgur](https://imgur.com/IietsN4.png)
 
-![Imgur](https://imgur.com/Mo8Mzlx.png)
+![Imgur](https://imgur.com/Mo8Mzlx.png)  
 
 
 
@@ -35,7 +35,7 @@ Il Dizionario del no sense è un generatore di neologismi con relative spiegazio
 
 Il progetto parte da una base di [*pattern 1*](https://www.openprocessing.org/sketch/265189)
 
-![Imgur](https://imgur.com/VH2Mpa8.png)
+![Imgur](https://imgur.com/VH2Mpa8.png)  
 
 
 
