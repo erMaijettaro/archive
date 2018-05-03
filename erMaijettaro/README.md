@@ -3,6 +3,16 @@
 ![Imgur](https://imgur.com/EqOKAdF.jpg)
 
 
+# IL QUADRO DELLA SITUAZIONE - Making Visible
+
+Il Quadro della Situazione è un modulo comunicativo facilmente riprogrammabile, che rappresenta, tramite illuminazione e vibrazione, un dato trovato sul web. L'associazione di più moduli crea una composizione che racconta le scelte e gli interessi degli utenti web. L'utente dentro di sè ricalibra la propria percezione dell'informazione pubblica.
+
+![Imgur](https://i.imgur.com/01ivCpX.jpg)
+
+
+
+
+
 # DIZIONARIO DEL NO SENSE - Generatore di parole
 
 **by @erMaijettero © 2017 MIT License**  
@@ -26,16 +36,6 @@ Il Dizionario del no sense è un generatore di neologismi con relative spiegazio
 Il progetto parte da una base di [*pattern 1*](https://www.openprocessing.org/sketch/265189)
 
 ![Imgur](https://imgur.com/VH2Mpa8.png)
-
-
-
-
-# IL QUADRO DELLA SITUAZIONE - Making Visible
-
-Il Quadro della Situazione è un modulo comunicativo facilmente riprogrammabile, che rappresenta, tramite illuminazione e vibrazione, un dato trovato sul web. L'associazione di più moduli crea una composizione che racconta le scelte e gli interessi degli utenti web. L'utente dentro di sè ricalibra la propria percezione dell'informazione pubblica.
-
-![Imgur](https://i.imgur.com/01ivCpX.jpg)
-
 
 
 
